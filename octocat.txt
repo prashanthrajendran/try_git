@@ -1,1 +1,5 @@
-A Tale of Two Octocats
+env 'http://datatables.org/alltables.env';
+set oauth_consumer_key = "lYzvwfw07XWfjjeTbEoMg" on twitter;
+set oauth_consumer_secret = "tVrBFRkZDyrbzPl86rAoRENouuyKi526ifGti0tjGU" on twitter;
+set oauth_token = "53862019-IQ49YXrWBAOFxbrrS4t3DLT84FzIO4SRQLmTGwZfc" on twitter;
+set oauth_token_secret = "71BpuvQrgM6Sym0BYig35geAw8HE9Xf4bq48MCnzyq1xK" on twitter;
